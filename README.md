@@ -1,0 +1,1 @@
+# Smart-Canteen-NGOs-Food-Waste-Management-using-Predictive-Analysis-Python-Django-SQL
