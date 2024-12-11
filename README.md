@@ -70,12 +70,12 @@ python manage.py runserver
 6.	Access the application at: http://127.0.0.1:8000/
 ________________________________________
 
-#Future Scope
+#Future Scope:-
 •	Integration with AI for better predictive analysis and demand forecasting.
 •	Enhanced recommendation algorithms based on customer preferences and feedback.
 •	Support for additional payment gateways and multi-language interfaces.
 ________________________________________
 
-#Contribution
+#Contribution :-
 Feel free to fork the repository and submit issues or pull requests. Contributions are welcome to improve functionality and add new features.
 
