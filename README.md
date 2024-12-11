@@ -1,20 +1,18 @@
 # Smart-Canteen-NGOs-Food-Waste-Management-using-Predictive-Analysis-Python-Django-SQL
 
-![Capture](https://github.com/user-attachments/assets/c6be5c95-251f-4866-aeb3-f47282d7102e)
-
 Smart Canteen & NGOs: Food Waste Management Using Predictive Analysis
 This project is a web-based application aimed at streamlining food ordering processes while addressing food waste management by connecting hotels/restaurants with NGOs to redistribute surplus food. Built using Python, Django, and MySQL, the system improves operational efficiency, reduces food wastage, and enhances user experience through predictive analysis and a dynamic recommendation system.
 
+![Capture](https://github.com/user-attachments/assets/c6be5c95-251f-4866-aeb3-f47282d7102e)
 ________________________________________
-
-![Capture1](https://github.com/user-attachments/assets/24720f15-b6f3-4230-bd71-8389bfaa2c6d)
-
 
 #Key Features
 Customer Module
 •	View e-menu and order food from favorite restaurants.
 •	Modify cart items and proceed with cashless payments or cash on delivery.
 •	Receive recommendations based on user feedback.
+
+![Capture1](https://github.com/user-attachments/assets/24720f15-b6f3-4230-bd71-8389bfaa2c6d)
 
 #Admin Module
 •	Manage user accounts and restaurant data.
