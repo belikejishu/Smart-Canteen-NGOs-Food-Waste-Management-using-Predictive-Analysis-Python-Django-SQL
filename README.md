@@ -12,10 +12,12 @@ Customer Module
 #Admin Module
 •	Manage user accounts and restaurant data.
 •	Add, update, or delete menu items dynamically.
+
 #Restaurant Module
 •	Update or remove menu items from the database.
 •	Manage food delivery from the kitchen to customers.
 •	Notify NGOs about surplus food.
+
 #NGO Module
 •	Request surplus food donations from restaurants.
 •	Receive real-time notifications of available food based on location.
